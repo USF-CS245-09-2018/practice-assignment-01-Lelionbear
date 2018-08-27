@@ -1,2 +1,4 @@
 # PracticeAssignment01
-In
+# Arturo Galvan-Alarcon
+I finished the assignment
+
